@@ -1,0 +1,1066 @@
+Epoch 183 Loss 0.0257
+Time taken for 1 epoch 1.1413686275482178 sec
+
+Epoch 184 Batch 0 Loss 0.0311
+Epoch 184 Loss 0.0252
+Time taken for 1 epoch 1.5819456577301025 sec
+
+Epoch 185 Batch 0 Loss 0.0281
+Epoch 185 Loss 0.0264
+Time taken for 1 epoch 1.1565861701965332 sec
+
+Epoch 186 Batch 0 Loss 0.0233
+Epoch 186 Loss 0.0432
+Time taken for 1 epoch 1.583296537399292 sec
+
+Epoch 187 Batch 0 Loss 0.1973
+Epoch 187 Loss 0.1907
+Time taken for 1 epoch 1.1537022590637207 sec
+
+Epoch 188 Batch 0 Loss 0.2009
+Epoch 188 Loss 0.2033
+Time taken for 1 epoch 1.6095871925354004 sec
+
+Epoch 189 Batch 0 Loss 0.1891
+Epoch 189 Loss 0.1337
+Time taken for 1 epoch 1.2189059257507324 sec
+
+Epoch 190 Batch 0 Loss 0.0949
+Epoch 190 Loss 0.1110
+Time taken for 1 epoch 1.6277742385864258 sec
+
+Epoch 191 Batch 0 Loss 0.0863
+Epoch 191 Loss 0.1014
+Time taken for 1 epoch 1.1468212604522705 sec
+
+Epoch 192 Batch 0 Loss 0.0877
+Epoch 192 Loss 0.0918
+Time taken for 1 epoch 1.5892078876495361 sec
+
+Epoch 193 Batch 0 Loss 0.0846
+Epoch 193 Loss 0.0860
+Time taken for 1 epoch 1.1482295989990234 sec
+
+Epoch 194 Batch 0 Loss 0.0912
+Epoch 194 Loss 0.0830
+Time taken for 1 epoch 1.6337971687316895 sec
+
+Epoch 195 Batch 0 Loss 0.0763
+Epoch 195 Loss 0.0747
+Time taken for 1 epoch 1.1659626960754395 sec
+
+Epoch 196 Batch 0 Loss 0.0631
+Epoch 196 Loss 0.0636
+Time taken for 1 epoch 1.6261260509490967 sec
+
+Epoch 197 Batch 0 Loss 0.0535
+Epoch 197 Loss 0.0641
+Time taken for 1 epoch 1.168304443359375 sec
+
+Epoch 198 Batch 0 Loss 0.0570
+Epoch 198 Loss 0.0591
+Time taken for 1 epoch 1.6231567859649658 sec
+
+Epoch 199 Batch 0 Loss 0.0479
+Epoch 199 Loss 0.0524
+Time taken for 1 epoch 1.1519293785095215 sec
+
+Epoch 200 Batch 0 Loss 0.0396
+Epoch 200 Loss 0.0485
+Time taken for 1 epoch 1.5904626846313477 sec
+
+Epoch 201 Batch 0 Loss 0.0357
+Epoch 201 Loss 0.0454
+Time taken for 1 epoch 1.1302673816680908 sec
+
+Epoch 202 Batch 0 Loss 0.0512
+Epoch 202 Loss 0.0523
+Time taken for 1 epoch 1.5980448722839355 sec
+
+Epoch 203 Batch 0 Loss 0.0484
+Epoch 203 Loss 0.0453
+Time taken for 1 epoch 1.1337699890136719 sec
+
+Epoch 204 Batch 0 Loss 0.0342
+Epoch 204 Loss 0.0421
+Time taken for 1 epoch 1.5779838562011719 sec
+
+Epoch 205 Batch 0 Loss 0.0413
+Epoch 205 Loss 0.0373
+Time taken for 1 epoch 1.1464605331420898 sec
+
+Epoch 206 Batch 0 Loss 0.0277
+Epoch 206 Loss 0.0368
+Time taken for 1 epoch 1.591555118560791 sec
+
+Epoch 207 Batch 0 Loss 0.0317
+Epoch 207 Loss 0.0366
+Time taken for 1 epoch 1.1344249248504639 sec
+
+Epoch 208 Batch 0 Loss 0.0393
+Epoch 208 Loss 0.0364
+Time taken for 1 epoch 1.6108691692352295 sec
+
+Epoch 209 Batch 0 Loss 0.0322
+Epoch 209 Loss 0.0375
+Time taken for 1 epoch 1.1439034938812256 sec
+
+Epoch 210 Batch 0 Loss 0.0335
+Epoch 210 Loss 0.0352
+Time taken for 1 epoch 1.6515982151031494 sec
+
+Epoch 211 Batch 0 Loss 0.0397
+Epoch 211 Loss 0.0332
+Time taken for 1 epoch 1.142099380493164 sec
+
+Epoch 212 Batch 0 Loss 0.0249
+Epoch 212 Loss 0.0305
+Time taken for 1 epoch 1.6218886375427246 sec
+
+Epoch 213 Batch 0 Loss 0.0333
+Epoch 213 Loss 0.0362
+Time taken for 1 epoch 1.1323063373565674 sec
+
+Epoch 214 Batch 0 Loss 0.0296
+Epoch 214 Loss 0.0371
+Time taken for 1 epoch 1.5793418884277344 sec
+
+Epoch 215 Batch 0 Loss 0.0309
+Epoch 215 Loss 0.0381
+Time taken for 1 epoch 1.1257479190826416 sec
+
+Epoch 216 Batch 0 Loss 0.0457
+Epoch 216 Loss 0.0375
+Time taken for 1 epoch 1.5844807624816895 sec
+
+Epoch 217 Batch 0 Loss 0.0441
+Epoch 217 Loss 0.0457
+Time taken for 1 epoch 1.1347706317901611 sec
+
+Epoch 218 Batch 0 Loss 0.0424
+Epoch 218 Loss 0.0510
+Time taken for 1 epoch 1.6404743194580078 sec
+
+Epoch 219 Batch 0 Loss 0.0281
+Epoch 219 Loss 0.0409
+Time taken for 1 epoch 1.1429741382598877 sec
+
+Epoch 220 Batch 0 Loss 0.0431
+Epoch 220 Loss 0.0457
+Time taken for 1 epoch 1.592947006225586 sec
+
+Epoch 221 Batch 0 Loss 0.0425
+Epoch 221 Loss 0.0405
+Time taken for 1 epoch 1.1406733989715576 sec
+
+Epoch 222 Batch 0 Loss 0.0340
+Epoch 222 Loss 0.0395
+Time taken for 1 epoch 1.5799357891082764 sec
+
+Epoch 223 Batch 0 Loss 0.0380
+Epoch 223 Loss 0.0354
+Time taken for 1 epoch 1.150156021118164 sec
+
+Epoch 224 Batch 0 Loss 0.0330
+Epoch 224 Loss 0.0344
+Time taken for 1 epoch 1.5861709117889404 sec
+
+Epoch 225 Batch 0 Loss 0.0315
+Epoch 225 Loss 0.0340
+Time taken for 1 epoch 1.1391003131866455 sec
+
+Epoch 226 Batch 0 Loss 0.0233
+Epoch 226 Loss 0.0352
+Time taken for 1 epoch 1.5987522602081299 sec
+
+Epoch 227 Batch 0 Loss 0.0221
+Epoch 227 Loss 0.0307
+Time taken for 1 epoch 1.1514666080474854 sec
+
+Epoch 228 Batch 0 Loss 0.0333
+Epoch 228 Loss 0.0300
+Time taken for 1 epoch 2.140256881713867 sec
+
+Epoch 229 Batch 0 Loss 0.0264
+Epoch 229 Loss 0.0272
+Time taken for 1 epoch 1.1357779502868652 sec
+
+Epoch 230 Batch 0 Loss 0.0222
+Epoch 230 Loss 0.0269
+Time taken for 1 epoch 1.5939033031463623 sec
+
+Epoch 231 Batch 0 Loss 0.0351
+Epoch 231 Loss 0.0276
+Time taken for 1 epoch 1.1479883193969727 sec
+
+Epoch 232 Batch 0 Loss 0.0184
+Epoch 232 Loss 0.0238
+Time taken for 1 epoch 1.6543145179748535 sec
+
+Epoch 233 Batch 0 Loss 0.0231
+Epoch 233 Loss 0.0225
+Time taken for 1 epoch 1.1552588939666748 sec
+
+Epoch 234 Batch 0 Loss 0.0191
+Epoch 234 Loss 0.0207
+Time taken for 1 epoch 1.5901105403900146 sec
+
+Epoch 235 Batch 0 Loss 0.0230
+Epoch 235 Loss 0.0201
+Time taken for 1 epoch 1.1443462371826172 sec
+
+Epoch 236 Batch 0 Loss 0.0194
+Epoch 236 Loss 0.0192
+Time taken for 1 epoch 1.6032683849334717 sec
+
+Epoch 237 Batch 0 Loss 0.0180
+Epoch 237 Loss 0.0235
+Time taken for 1 epoch 1.1513936519622803 sec
+
+Epoch 238 Batch 0 Loss 0.0224
+Epoch 238 Loss 0.0195
+Time taken for 1 epoch 1.5991230010986328 sec
+
+Epoch 239 Batch 0 Loss 0.0198
+Epoch 239 Loss 0.0197
+Time taken for 1 epoch 1.1438617706298828 sec
+
+Epoch 240 Batch 0 Loss 0.0156
+Epoch 240 Loss 0.0210
+Time taken for 1 epoch 1.5750994682312012 sec
+
+Epoch 241 Batch 0 Loss 0.0247
+Epoch 241 Loss 0.0202
+Time taken for 1 epoch 1.1308083534240723 sec
+
+Epoch 242 Batch 0 Loss 0.0136
+Epoch 242 Loss 0.0172
+Time taken for 1 epoch 1.5970361232757568 sec
+
+Epoch 243 Batch 0 Loss 0.0127
+Epoch 243 Loss 0.0168
+Time taken for 1 epoch 1.1516656875610352 sec
+
+Epoch 244 Batch 0 Loss 0.0149
+Epoch 244 Loss 0.0157
+Time taken for 1 epoch 1.6122004985809326 sec
+
+Epoch 245 Batch 0 Loss 0.0158
+Epoch 245 Loss 0.0157
+Time taken for 1 epoch 1.1466667652130127 sec
+
+Epoch 246 Batch 0 Loss 0.0145
+Epoch 246 Loss 0.0139
+Time taken for 1 epoch 1.583742380142212 sec
+
+Epoch 247 Batch 0 Loss 0.0150
+Epoch 247 Loss 0.0162
+Time taken for 1 epoch 1.135441780090332 sec
+
+Epoch 248 Batch 0 Loss 0.0126
+Epoch 248 Loss 0.0132
+Time taken for 1 epoch 1.595047950744629 sec
+
+Epoch 249 Batch 0 Loss 0.0087
+Epoch 249 Loss 0.0116
+Time taken for 1 epoch 1.1517491340637207 sec
+
+Epoch 250 Batch 0 Loss 0.0121
+Epoch 250 Loss 0.0152
+Time taken for 1 epoch 1.587162971496582 sec
+
+Epoch 251 Batch 0 Loss 0.0139
+Epoch 251 Loss 0.0129
+Time taken for 1 epoch 1.134403944015503 sec
+
+Epoch 252 Batch 0 Loss 0.0183
+Epoch 252 Loss 0.0127
+Time taken for 1 epoch 1.5780324935913086 sec
+
+Epoch 253 Batch 0 Loss 0.0118
+Epoch 253 Loss 0.0131
+Time taken for 1 epoch 1.1496834754943848 sec
+
+Epoch 254 Batch 0 Loss 0.0138
+Epoch 254 Loss 0.0126
+Time taken for 1 epoch 1.6515514850616455 sec
+
+Epoch 255 Batch 0 Loss 0.0170
+Epoch 255 Loss 0.0192
+Time taken for 1 epoch 1.1438384056091309 sec
+
+Epoch 256 Batch 0 Loss 0.0138
+Epoch 256 Loss 0.0176
+Time taken for 1 epoch 1.5853352546691895 sec
+
+Epoch 257 Batch 0 Loss 0.0164
+Epoch 257 Loss 0.0196
+Time taken for 1 epoch 1.1407470703125 sec
+
+Epoch 258 Batch 0 Loss 0.0186
+Epoch 258 Loss 0.0374
+Time taken for 1 epoch 1.5794646739959717 sec
+
+Epoch 259 Batch 0 Loss 0.0914
+Epoch 259 Loss 0.0844
+Time taken for 1 epoch 1.1368029117584229 sec
+
+Epoch 260 Batch 0 Loss 0.0560
+Epoch 260 Loss 0.0770
+Time taken for 1 epoch 1.5970900058746338 sec
+
+Epoch 261 Batch 0 Loss 0.0746
+Epoch 261 Loss 0.0892
+Time taken for 1 epoch 1.1333003044128418 sec
+
+Epoch 262 Batch 0 Loss 0.0839
+Epoch 262 Loss 0.1074
+Time taken for 1 epoch 1.6045081615447998 sec
+
+Epoch 263 Batch 0 Loss 0.1100
+Epoch 263 Loss 0.1127
+Time taken for 1 epoch 1.1384620666503906 sec
+
+Epoch 264 Batch 0 Loss 0.0747
+Epoch 264 Loss 0.0837
+Time taken for 1 epoch 1.5593488216400146 sec
+
+Epoch 265 Batch 0 Loss 0.0917
+Epoch 265 Loss 0.0777
+Time taken for 1 epoch 1.1502792835235596 sec
+
+Epoch 266 Batch 0 Loss 0.0703
+Epoch 266 Loss 0.0808
+Time taken for 1 epoch 1.5774848461151123 sec
+
+Epoch 267 Batch 0 Loss 0.0568
+Epoch 267 Loss 0.0629
+Time taken for 1 epoch 1.1460766792297363 sec
+
+Epoch 268 Batch 0 Loss 0.0493
+Epoch 268 Loss 0.0600
+Time taken for 1 epoch 1.5988399982452393 sec
+
+Epoch 269 Batch 0 Loss 0.0620
+Epoch 269 Loss 0.0614
+Time taken for 1 epoch 1.1471304893493652 sec
+
+Epoch 270 Batch 0 Loss 0.0332
+Epoch 270 Loss 0.0515
+Time taken for 1 epoch 1.6033821105957031 sec
+
+Epoch 271 Batch 0 Loss 0.0572
+Epoch 271 Loss 0.0538
+Time taken for 1 epoch 1.1349351406097412 sec
+
+Epoch 272 Batch 0 Loss 0.0311
+Epoch 272 Loss 0.0395
+Time taken for 1 epoch 1.5573880672454834 sec
+
+Epoch 273 Batch 0 Loss 0.0300
+Epoch 273 Loss 0.0344
+Time taken for 1 epoch 1.144289255142212 sec
+
+Epoch 274 Batch 0 Loss 0.0515
+Epoch 274 Loss 0.0415
+Time taken for 1 epoch 1.5949180126190186 sec
+
+Epoch 275 Batch 0 Loss 0.0261
+Epoch 275 Loss 0.0337
+Time taken for 1 epoch 1.125584363937378 sec
+
+Epoch 276 Batch 0 Loss 0.0318
+Epoch 276 Loss 0.0329
+Time taken for 1 epoch 1.687497615814209 sec
+
+Epoch 277 Batch 0 Loss 0.0359
+Epoch 277 Loss 0.0316
+Time taken for 1 epoch 1.1337802410125732 sec
+
+Epoch 278 Batch 0 Loss 0.0354
+Epoch 278 Loss 0.0333
+Time taken for 1 epoch 1.5937094688415527 sec
+
+Epoch 279 Batch 0 Loss 0.0280
+Epoch 279 Loss 0.0320
+Time taken for 1 epoch 1.1362271308898926 sec
+
+Epoch 280 Batch 0 Loss 0.0220
+Epoch 280 Loss 0.0287
+Time taken for 1 epoch 1.6104235649108887 sec
+
+Epoch 281 Batch 0 Loss 0.0227
+Epoch 281 Loss 0.0278
+Time taken for 1 epoch 1.13112211227417 sec
+
+Epoch 282 Batch 0 Loss 0.0201
+Epoch 282 Loss 0.0248
+Time taken for 1 epoch 1.6168122291564941 sec
+
+Epoch 283 Batch 0 Loss 0.0166
+Epoch 283 Loss 0.0205
+Time taken for 1 epoch 1.1350483894348145 sec
+
+Epoch 284 Batch 0 Loss 0.0217
+Epoch 284 Loss 0.0187
+Time taken for 1 epoch 1.5933446884155273 sec
+
+Epoch 285 Batch 0 Loss 0.0182
+Epoch 285 Loss 0.0169
+Time taken for 1 epoch 1.1403257846832275 sec
+
+Epoch 286 Batch 0 Loss 0.0119
+Epoch 286 Loss 0.0168
+Time taken for 1 epoch 1.5903961658477783 sec
+
+Epoch 287 Batch 0 Loss 0.0196
+Epoch 287 Loss 0.0164
+Time taken for 1 epoch 1.1418728828430176 sec
+
+Epoch 288 Batch 0 Loss 0.0107
+Epoch 288 Loss 0.0153
+Time taken for 1 epoch 1.6132540702819824 sec
+
+Epoch 289 Batch 0 Loss 0.0120
+Epoch 289 Loss 0.0123
+Time taken for 1 epoch 1.1404311656951904 sec
+
+Epoch 290 Batch 0 Loss 0.0063
+Epoch 290 Loss 0.0123
+Time taken for 1 epoch 1.577693223953247 sec
+
+Epoch 291 Batch 0 Loss 0.0139
+Epoch 291 Loss 0.0128
+Time taken for 1 epoch 1.141875982284546 sec
+
+Epoch 292 Batch 0 Loss 0.0117
+Epoch 292 Loss 0.0115
+Time taken for 1 epoch 1.5996050834655762 sec
+
+Epoch 293 Batch 0 Loss 0.0100
+Epoch 293 Loss 0.0101
+Time taken for 1 epoch 1.138981580734253 sec
+
+Epoch 294 Batch 0 Loss 0.0070
+Epoch 294 Loss 0.0094
+Time taken for 1 epoch 1.5860674381256104 sec
+
+Epoch 295 Batch 0 Loss 0.0120
+Epoch 295 Loss 0.0104
+Time taken for 1 epoch 1.140040636062622 sec
+
+Epoch 296 Batch 0 Loss 0.0112
+Epoch 296 Loss 0.0095
+Time taken for 1 epoch 1.5814335346221924 sec
+
+Epoch 297 Batch 0 Loss 0.0094
+Epoch 297 Loss 0.0096
+Time taken for 1 epoch 1.1493608951568604 sec
+
+Epoch 298 Batch 0 Loss 0.0087
+Epoch 298 Loss 0.0084
+Time taken for 1 epoch 1.629544973373413 sec
+
+Epoch 299 Batch 0 Loss 0.0102
+Epoch 299 Loss 0.0085
+Time taken for 1 epoch 1.1450834274291992 sec
+
+Epoch 300 Batch 0 Loss 0.0094
+Epoch 300 Loss 0.0089
+Time taken for 1 epoch 1.6219465732574463 sec
+
+Epoch 301 Batch 0 Loss 0.0059
+Epoch 301 Loss 0.0088
+Time taken for 1 epoch 1.142498254776001 sec
+
+Epoch 302 Batch 0 Loss 0.0052
+Epoch 302 Loss 0.0085
+Time taken for 1 epoch 1.6374669075012207 sec
+
+Epoch 303 Batch 0 Loss 0.0119
+Epoch 303 Loss 0.0095
+Time taken for 1 epoch 1.1285645961761475 sec
+
+Epoch 304 Batch 0 Loss 0.0098
+Epoch 304 Loss 0.0078
+Time taken for 1 epoch 1.6075072288513184 sec
+
+Epoch 305 Batch 0 Loss 0.0068
+Epoch 305 Loss 0.0083
+Time taken for 1 epoch 1.1428375244140625 sec
+
+Epoch 306 Batch 0 Loss 0.0035
+Epoch 306 Loss 0.0070
+Time taken for 1 epoch 1.5596494674682617 sec
+
+Epoch 307 Batch 0 Loss 0.0096
+Epoch 307 Loss 0.0069
+Time taken for 1 epoch 1.1465740203857422 sec
+
+Epoch 308 Batch 0 Loss 0.0053
+Epoch 308 Loss 0.0068
+Time taken for 1 epoch 1.6106109619140625 sec
+
+Epoch 309 Batch 0 Loss 0.0060
+Epoch 309 Loss 0.0067
+Time taken for 1 epoch 1.158759355545044 sec
+
+Epoch 310 Batch 0 Loss 0.0126
+Epoch 310 Loss 0.0083
+Time taken for 1 epoch 1.5965821743011475 sec
+
+Epoch 311 Batch 0 Loss 0.0033
+Epoch 311 Loss 0.0075
+Time taken for 1 epoch 1.1441876888275146 sec
+
+Epoch 312 Batch 0 Loss 0.0064
+Epoch 312 Loss 0.0081
+Time taken for 1 epoch 1.5968537330627441 sec
+
+Epoch 313 Batch 0 Loss 0.0095
+Epoch 313 Loss 0.0080
+Time taken for 1 epoch 1.1303439140319824 sec
+
+Epoch 314 Batch 0 Loss 0.0068
+Epoch 314 Loss 0.0081
+Time taken for 1 epoch 1.6325023174285889 sec
+
+Epoch 315 Batch 0 Loss 0.0061
+Epoch 315 Loss 0.0084
+Time taken for 1 epoch 1.1447851657867432 sec
+
+Epoch 316 Batch 0 Loss 0.0107
+Epoch 316 Loss 0.0095
+Time taken for 1 epoch 1.6111924648284912 sec
+
+Epoch 317 Batch 0 Loss 0.0123
+Epoch 317 Loss 0.0226
+Time taken for 1 epoch 1.1367254257202148 sec
+
+Epoch 318 Batch 0 Loss 0.0312
+Epoch 318 Loss 0.0280
+Time taken for 1 epoch 1.6207966804504395 sec
+
+Epoch 319 Batch 0 Loss 0.0261
+Epoch 319 Loss 0.0342
+Time taken for 1 epoch 1.1397733688354492 sec
+
+Epoch 320 Batch 0 Loss 0.0165
+Epoch 320 Loss 0.0298
+Time taken for 1 epoch 1.664602279663086 sec
+
+Epoch 321 Batch 0 Loss 0.0769
+Epoch 321 Loss 0.0659
+Time taken for 1 epoch 1.1535348892211914 sec
+
+Epoch 322 Batch 0 Loss 0.0356
+Epoch 322 Loss 0.0636
+Time taken for 1 epoch 1.6242146492004395 sec
+
+Epoch 323 Batch 0 Loss 0.0454
+Epoch 323 Loss 0.0544
+Time taken for 1 epoch 1.1395831108093262 sec
+
+Epoch 324 Batch 0 Loss 0.0433
+Epoch 324 Loss 0.0441
+Time taken for 1 epoch 1.60744047164917 sec
+
+Epoch 325 Batch 0 Loss 0.0413
+Epoch 325 Loss 0.0441
+Time taken for 1 epoch 1.1437485218048096 sec
+
+Epoch 326 Batch 0 Loss 0.0410
+Epoch 326 Loss 0.0328
+Time taken for 1 epoch 1.5987586975097656 sec
+
+Epoch 327 Batch 0 Loss 0.0196
+Epoch 327 Loss 0.0266
+Time taken for 1 epoch 1.1382591724395752 sec
+
+Epoch 328 Batch 0 Loss 0.0177
+Epoch 328 Loss 0.0244
+Time taken for 1 epoch 1.6005501747131348 sec
+
+Epoch 329 Batch 0 Loss 0.0237
+Epoch 329 Loss 0.0219
+Time taken for 1 epoch 1.1475636959075928 sec
+
+Epoch 330 Batch 0 Loss 0.0173
+Epoch 330 Loss 0.0181
+Time taken for 1 epoch 1.599959373474121 sec
+
+Epoch 331 Batch 0 Loss 0.0134
+Epoch 331 Loss 0.0184
+Time taken for 1 epoch 1.1392889022827148 sec
+
+Epoch 332 Batch 0 Loss 0.0128
+Epoch 332 Loss 0.0139
+Time taken for 1 epoch 1.5890953540802002 sec
+
+Epoch 333 Batch 0 Loss 0.0105
+Epoch 333 Loss 0.0150
+Time taken for 1 epoch 1.1459879875183105 sec
+
+Epoch 334 Batch 0 Loss 0.0201
+Epoch 334 Loss 0.0156
+Time taken for 1 epoch 1.5904641151428223 sec
+
+Epoch 335 Batch 0 Loss 0.0115
+Epoch 335 Loss 0.0129
+Time taken for 1 epoch 1.1380422115325928 sec
+
+Epoch 336 Batch 0 Loss 0.0138
+Epoch 336 Loss 0.0127
+Time taken for 1 epoch 1.6141674518585205 sec
+
+Epoch 337 Batch 0 Loss 0.0104
+Epoch 337 Loss 0.0104
+Time taken for 1 epoch 1.1649177074432373 sec
+
+Epoch 338 Batch 0 Loss 0.0096
+Epoch 338 Loss 0.0084
+Time taken for 1 epoch 1.5805933475494385 sec
+
+Epoch 339 Batch 0 Loss 0.0090
+Epoch 339 Loss 0.0099
+Time taken for 1 epoch 1.143162488937378 sec
+
+Epoch 340 Batch 0 Loss 0.0130
+Epoch 340 Loss 0.0090
+Time taken for 1 epoch 1.5879416465759277 sec
+
+Epoch 341 Batch 0 Loss 0.0077
+Epoch 341 Loss 0.0073
+Time taken for 1 epoch 1.1514832973480225 sec
+
+Epoch 342 Batch 0 Loss 0.0062
+Epoch 342 Loss 0.0068
+Time taken for 1 epoch 1.6382250785827637 sec
+
+Epoch 343 Batch 0 Loss 0.0067
+Epoch 343 Loss 0.0080
+Time taken for 1 epoch 1.1333720684051514 sec
+
+Epoch 344 Batch 0 Loss 0.0074
+Epoch 344 Loss 0.0075
+Time taken for 1 epoch 1.5745322704315186 sec
+
+Epoch 345 Batch 0 Loss 0.0076
+Epoch 345 Loss 0.0091
+Time taken for 1 epoch 1.140174388885498 sec
+
+Epoch 346 Batch 0 Loss 0.0085
+Epoch 346 Loss 0.0090
+Time taken for 1 epoch 1.6023125648498535 sec
+
+Epoch 347 Batch 0 Loss 0.0077
+Epoch 347 Loss 0.0083
+Time taken for 1 epoch 1.158846139907837 sec
+
+Epoch 348 Batch 0 Loss 0.0083
+Epoch 348 Loss 0.0108
+Time taken for 1 epoch 1.5886797904968262 sec
+
+Epoch 349 Batch 0 Loss 0.0138
+Epoch 349 Loss 0.0145
+Time taken for 1 epoch 1.1469478607177734 sec
+
+Epoch 350 Batch 0 Loss 0.0079
+Epoch 350 Loss 0.0182
+Time taken for 1 epoch 1.5918047428131104 sec
+
+Epoch 351 Batch 0 Loss 0.0187
+Epoch 351 Loss 0.0150
+Time taken for 1 epoch 1.1523547172546387 sec
+
+Epoch 352 Batch 0 Loss 0.0121
+Epoch 352 Loss 0.0152
+Time taken for 1 epoch 1.5714318752288818 sec
+
+Epoch 353 Batch 0 Loss 0.0350
+Epoch 353 Loss 0.0230
+Time taken for 1 epoch 1.1403100490570068 sec
+
+Epoch 354 Batch 0 Loss 0.0290
+Epoch 354 Loss 0.0246
+Time taken for 1 epoch 1.6395978927612305 sec
+
+Epoch 355 Batch 0 Loss 0.0066
+Epoch 355 Loss 0.0155
+Time taken for 1 epoch 1.1550636291503906 sec
+
+Epoch 356 Batch 0 Loss 0.0108
+Epoch 356 Loss 0.0163
+Time taken for 1 epoch 1.594771385192871 sec
+
+Epoch 357 Batch 0 Loss 0.0185
+Epoch 357 Loss 0.0184
+Time taken for 1 epoch 1.144951343536377 sec
+
+Epoch 358 Batch 0 Loss 0.0110
+Epoch 358 Loss 0.0136
+Time taken for 1 epoch 1.5800995826721191 sec
+
+Epoch 359 Batch 0 Loss 0.0084
+Epoch 359 Loss 0.0141
+Time taken for 1 epoch 1.1520025730133057 sec
+
+Epoch 360 Batch 0 Loss 0.0115
+Epoch 360 Loss 0.0148
+Time taken for 1 epoch 1.5986425876617432 sec
+
+Epoch 361 Batch 0 Loss 0.0103
+Epoch 361 Loss 0.0145
+Time taken for 1 epoch 1.1372275352478027 sec
+
+Epoch 362 Batch 0 Loss 0.0102
+Epoch 362 Loss 0.0121
+Time taken for 1 epoch 1.629873275756836 sec
+
+Epoch 363 Batch 0 Loss 0.0046
+Epoch 363 Loss 0.0085
+Time taken for 1 epoch 1.134512186050415 sec
+
+Epoch 364 Batch 0 Loss 0.0071
+Epoch 364 Loss 0.0077
+Time taken for 1 epoch 1.6536872386932373 sec
+
+Epoch 365 Batch 0 Loss 0.0111
+Epoch 365 Loss 0.0078
+Time taken for 1 epoch 1.1325557231903076 sec
+
+Epoch 366 Batch 0 Loss 0.0085
+Epoch 366 Loss 0.0100
+Time taken for 1 epoch 1.5960185527801514 sec
+
+Epoch 367 Batch 0 Loss 0.0076
+Epoch 367 Loss 0.0068
+Time taken for 1 epoch 1.140686273574829 sec
+
+Epoch 368 Batch 0 Loss 0.0082
+Epoch 368 Loss 0.0064
+Time taken for 1 epoch 1.604724407196045 sec
+
+Epoch 369 Batch 0 Loss 0.0071
+Epoch 369 Loss 0.0065
+Time taken for 1 epoch 1.1450300216674805 sec
+
+Epoch 370 Batch 0 Loss 0.0038
+Epoch 370 Loss 0.0056
+Time taken for 1 epoch 1.6082286834716797 sec
+
+Epoch 371 Batch 0 Loss 0.0027
+Epoch 371 Loss 0.0056
+Time taken for 1 epoch 1.1399567127227783 sec
+
+Epoch 372 Batch 0 Loss 0.0056
+Epoch 372 Loss 0.0049
+Time taken for 1 epoch 1.594219446182251 sec
+
+Epoch 373 Batch 0 Loss 0.0034
+Epoch 373 Loss 0.0055
+Time taken for 1 epoch 1.1534667015075684 sec
+
+Epoch 374 Batch 0 Loss 0.0042
+Epoch 374 Loss 0.0047
+Time taken for 1 epoch 1.599914789199829 sec
+
+Epoch 375 Batch 0 Loss 0.0074
+Epoch 375 Loss 0.0052
+Time taken for 1 epoch 1.1595134735107422 sec
+
+Epoch 376 Batch 0 Loss 0.0057
+Epoch 376 Loss 0.0041
+Time taken for 1 epoch 1.5774567127227783 sec
+
+Epoch 377 Batch 0 Loss 0.0067
+Epoch 377 Loss 0.0043
+Time taken for 1 epoch 1.1229610443115234 sec
+
+Epoch 378 Batch 0 Loss 0.0024
+Epoch 378 Loss 0.0050
+Time taken for 1 epoch 1.6101901531219482 sec
+
+Epoch 379 Batch 0 Loss 0.0034
+Epoch 379 Loss 0.0055
+Time taken for 1 epoch 1.1398675441741943 sec
+
+Epoch 380 Batch 0 Loss 0.0056
+Epoch 380 Loss 0.0061
+Time taken for 1 epoch 1.5646326541900635 sec
+
+Epoch 381 Batch 0 Loss 0.0114
+Epoch 381 Loss 0.0059
+Time taken for 1 epoch 1.1459648609161377 sec
+
+Epoch 382 Batch 0 Loss 0.0017
+Epoch 382 Loss 0.0049
+Time taken for 1 epoch 1.5698552131652832 sec
+
+Epoch 383 Batch 0 Loss 0.0047
+Epoch 383 Loss 0.0047
+Time taken for 1 epoch 1.1305043697357178 sec
+
+Epoch 384 Batch 0 Loss 0.0040
+Epoch 384 Loss 0.0047
+Time taken for 1 epoch 1.5921087265014648 sec
+
+Epoch 385 Batch 0 Loss 0.0030
+Epoch 385 Loss 0.0038
+Time taken for 1 epoch 1.2232539653778076 sec
+
+Epoch 386 Batch 0 Loss 0.0016
+Epoch 386 Loss 0.0044
+Time taken for 1 epoch 1.6160414218902588 sec
+
+Epoch 387 Batch 0 Loss 0.0024
+Epoch 387 Loss 0.0045
+Time taken for 1 epoch 1.1500332355499268 sec
+
+Epoch 388 Batch 0 Loss 0.0025
+Epoch 388 Loss 0.0052
+Time taken for 1 epoch 1.5863714218139648 sec
+
+Epoch 389 Batch 0 Loss 0.0042
+Epoch 389 Loss 0.0048
+Time taken for 1 epoch 1.1446173191070557 sec
+
+Epoch 390 Batch 0 Loss 0.0030
+Epoch 390 Loss 0.0040
+Time taken for 1 epoch 1.5760700702667236 sec
+
+Epoch 391 Batch 0 Loss 0.0015
+Epoch 391 Loss 0.0037
+Time taken for 1 epoch 1.1234900951385498 sec
+
+Epoch 392 Batch 0 Loss 0.0018
+Epoch 392 Loss 0.0038
+Time taken for 1 epoch 1.5829756259918213 sec
+
+Epoch 393 Batch 0 Loss 0.0048
+Epoch 393 Loss 0.0043
+Time taken for 1 epoch 1.1487956047058105 sec
+
+Epoch 394 Batch 0 Loss 0.0026
+Epoch 394 Loss 0.0046
+Time taken for 1 epoch 1.578676700592041 sec
+
+Epoch 395 Batch 0 Loss 0.0094
+Epoch 395 Loss 0.0061
+Time taken for 1 epoch 1.137481451034546 sec
+
+Epoch 396 Batch 0 Loss 0.0036
+Epoch 396 Loss 0.0041
+Time taken for 1 epoch 1.6102283000946045 sec
+
+Epoch 397 Batch 0 Loss 0.0020
+Epoch 397 Loss 0.0046
+Time taken for 1 epoch 1.1377341747283936 sec
+
+Epoch 398 Batch 0 Loss 0.0018
+Epoch 398 Loss 0.0045
+Time taken for 1 epoch 1.6065890789031982 sec
+
+Epoch 399 Batch 0 Loss 0.0012
+Epoch 399 Loss 0.0035
+Time taken for 1 epoch 1.1531410217285156 sec
+
+Epoch 400 Batch 0 Loss 0.0056
+Epoch 400 Loss 0.0044
+Time taken for 1 epoch 1.5666382312774658 sec
+
+要翻译的句子 if standard_back is selected, shopping_procedure terminates . 
+de_input.numpy()[0][0] 171
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 9
+de_input.numpy()[0][0] 4
+de_input.numpy()[0][0] 135
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 19
+de_input.numpy()[0][0] 3
+correct_count 8
+test_all_count 8
+测试句子_______________________________________ if standard_back is selected, shopping_procedure terminates . 
+测试句子 ['standard_back', '___', 'selected', 'implication', 'shopping_procedure', '___', 'terminates', '<end>']
+翻译后句子Predicted translation: ['standard_back', '___', 'selected', 'implication', 'shopping_procedure', '___', 'terminates', '<end>']
+准确率为 1.0
+要翻译的句子 when auto_control_mode is running, terminate_auto_control_button should be available . 
+de_input.numpy()[0][0] 122
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 9
+de_input.numpy()[0][0] 20
+de_input.numpy()[0][0] 54
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 6
+de_input.numpy()[0][0] 3
+correct_count 12
+test_all_count 16
+测试句子_______________________________________ when auto_control_mode is running, terminate_auto_control_button should be available . 
+测试句子 ['auto_control_mode', '___', 'running', 'implication', 'terminate_auto_control_button', '___', 'available', '<end>']
+翻译后句子Predicted translation: ['termiante_auto_control_button', '___', 'selected', 'whenever', 'confirmation_button', '___', 'available', '<end>']
+准确率为 0.75
+要翻译的句子 if manual_mode is running and start_auto_control_button is pressed, next corroboration is triggered . 
+de_input.numpy()[0][0] 23
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 22
+de_input.numpy()[0][0] 7
+de_input.numpy()[0][0] 33
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 17
+de_input.numpy()[0][0] 4
+de_input.numpy()[0][0] 52
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 39
+de_input.numpy()[0][0] 3
+correct_count 24
+test_all_count 28
+测试句子_______________________________________ if manual_mode is running and start_auto_control_button is pressed, next corroboration is triggered . 
+测试句子 ['manual_mode', '___', 'running', '&&', 'start_auto_control_button', '___', 'pressed', 'implication', 'corroboration', '___', 'triggered', '<end>']
+翻译后句子Predicted translation: ['manual_mode', '___', 'running', '&&', 'start_auto_control_button', '___', 'pressed', 'implication', 'corroboration', '___', 'triggered', '<end>']
+准确率为 0.8571428571428571
+要翻译的句子 initially r2 or r3 or r4 or r5 or r6 or r7 or r8 or r9 is not available, and r1 is available . 
+de_input.numpy()[0][0] 69
+de_input.numpy()[0][0] 36
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 28
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 31
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 59
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 47
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 70
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 88
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 89
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 6
+de_input.numpy()[0][0] 7
+de_input.numpy()[0][0] 29
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 6
+de_input.numpy()[0][0] 3
+correct_count 47
+test_all_count 51
+测试句子_______________________________________ initially r2 or r3 or r4 or r5 or r6 or r7 or r8 or r9 is not available, and r1 is available . 
+测试句子 ['initially', 'r2', 'or', 'r3', 'or', 'r4', 'or', 'r5', 'or', 'r6', 'or', 'r7', 'or', 'r8', 'or', 'r9', '___', 'available', '&&', 'r1', '___', 'available', '<end>']
+翻译后句子Predicted translation: ['initially', 'r2', 'or', 'r3', 'or', 'r4', 'or', 'r5', 'or', 'r6', 'or', 'r7', 'or', 'r8', 'or', 'r9', '___', 'available', '&&', 'r1', '___', 'available', '<end>']
+准确率为 0.9215686274509803
+要翻译的句子 r22 is false, and r2 is false . 
+de_input.numpy()[0][0] 48
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 14
+de_input.numpy()[0][0] 7
+de_input.numpy()[0][0] 36
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 14
+de_input.numpy()[0][0] 3
+correct_count 55
+test_all_count 59
+测试句子_______________________________________ r22 is false, and r2 is false . 
+测试句子 ['r22', '___', 'false', '&&', 'r2', '___', 'false', '<end>']
+翻译后句子Predicted translation: ['r22', '___', 'false', '&&', 'r2', '___', 'false', '<end>']
+准确率为 0.9322033898305084
+要翻译的句子 if anything is not selected after selection_procedure terminates, next introduction_screen is enabled . 
+de_input.numpy()[0][0] 126
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 9
+de_input.numpy()[0][0] 30
+de_input.numpy()[0][0] 4
+de_input.numpy()[0][0] 79
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 19
+de_input.numpy()[0][0] 10
+de_input.numpy()[0][0] 166
+de_input.numpy()[0][0] 46
+de_input.numpy()[0][0] 3
+correct_count 67
+test_all_count 71
+测试句子_______________________________________ if anything is not selected after selection_procedure terminates, next introduction_screen is enabled . 
+测试句子 ['anything', '___', 'selected', 'after', 'implication', 'selection_procedure', '___', 'terminates', '<>', 'introduction_screen___', 'enabled', '<end>']
+翻译后句子Predicted translation: ['anything', '___', 'selected', 'after', 'implication', 'selection_procedure', '___', 'terminates', '<>', 'introduction_screen___', 'enabled', '<end>']
+准确率为 0.9436619718309859
+要翻译的句子 r44 is false, or r4 is false . 
+de_input.numpy()[0][0] 49
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 14
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 31
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 14
+de_input.numpy()[0][0] 3
+correct_count 75
+test_all_count 79
+测试句子_______________________________________ r44 is false, or r4 is false . 
+测试句子 ['r44', '___', 'false', 'or', 'r4', '___', 'false', '<end>']
+翻译后句子Predicted translation: ['r44', '___', 'false', 'or', 'r4', '___', 'false', '<end>']
+准确率为 0.9493670886075949
+要翻译的句子 if arterial_line and pulse_wave are corroborated and cuff is available, next arterial_line is selected . 
+de_input.numpy()[0][0] 16
+de_input.numpy()[0][0] 24
+de_input.numpy()[0][0] 15
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 45
+de_input.numpy()[0][0] 7
+de_input.numpy()[0][0] 18
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 6
+de_input.numpy()[0][0] 4
+de_input.numpy()[0][0] 16
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 9
+de_input.numpy()[0][0] 3
+correct_count 89
+test_all_count 93
+测试句子_______________________________________ if arterial_line and pulse_wave are corroborated and cuff is available, next arterial_line is selected . 
+测试句子 ['arterial_line', 'and', 'pulse_wave', '___', 'corroborated', '&&', 'cuff', '___', 'available', 'implication', 'arterial_line', '___', 'selected', '<end>']
+翻译后句子Predicted translation: ['arterial_line', 'and', 'pulse_wave', '___', 'corroborated', '&&', 'cuff', '___', 'available', 'implication', 'arterial_line', '___', 'selected', '<end>']
+准确率为 0.956989247311828
+要翻译的句子 r66 is false, or r6 is false . 
+de_input.numpy()[0][0] 50
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 14
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 47
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 14
+de_input.numpy()[0][0] 3
+correct_count 97
+test_all_count 101
+测试句子_______________________________________ r66 is false, or r6 is false . 
+测试句子 ['r66', '___', 'false', 'or', 'r6', '___', 'false', '<end>']
+翻译后句子Predicted translation: ['r66', '___', 'false', 'or', 'r6', '___', 'false', '<end>']
+准确率为 0.9603960396039604
+要翻译的句子 if override_selection is provided, if override_yes is pressed and arterial_line is corroborated and pulse_wave is not corroborated, next pulse_wave is selected . 
+de_input.numpy()[0][0] 69
+de_input.numpy()[0][0] 48
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 41
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 49
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 42
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 50
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 72
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 90
+de_input.numpy()[0][0] 5
+de_input.numpy()[0][0] 43
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 6
+de_input.numpy()[0][0] 7
+de_input.numpy()[0][0] 91
+de_input.numpy()[0][0] 1
+de_input.numpy()[0][0] 6
+de_input.numpy()[0][0] 3
+correct_count 97
+test_all_count 121
+测试句子_______________________________________ if override_selection is provided, if override_yes is pressed and arterial_line is corroborated and pulse_wave is not corroborated, next pulse_wave is selected . 
+测试句子 ['override_selection', '___', 'provided', 'implication', 'override_yes', '___', 'pressed', '&&', 'arterial_line', '___', 'corroborated', '&&', 'pulse_wave', '___corroborated', 'implication', '<>', 'pulse_wave', '___', 'selected', '<end>']
+翻译后句子Predicted translation: ['initially', 'r22', 'or', 'r33', 'or', 'r44', 'or', 'r55', 'or', 'r66', 'or', 'r77', 'or', 'r88', 'or', 'r11', '___', 'available', '&&', 'r99', '___', 'available', '<end>']
+准确率为 0.8016528925619835
+(lcy_py36) lcy@60001:~/PPTLGeneration/seqtoseq_nmt-master$ 
