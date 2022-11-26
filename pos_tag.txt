@@ -1,0 +1,64 @@
+I/PRP 'm/VBP next/JJ ./.
+Tom/NNP is/VBZ cruel/JJ ./.
+We/PRP were/VBD right/RB ./.
+I/PRP said/VBD get/VB out/RP ./.
+Smoking/NN stinks/VBZ ./.
+Put/VB your/PRP$ hat/NN on/IN ./.
+What/WP a/DT disaster/NN !/.
+I/PRP do/VBP n't/RB mean/VB you/PRP ./.
+This/DT book/NN is/VBZ old/JJ ./.
+Living/VBG is/VBZ n't/RB easy/JJ ./.
+I/PRP like/VBP being/VBG alone/RB ./.
+I/PRP already/RB know/VBP this/DT ./.
+Maybe/RB we/PRP should/MD wait/VB ./.
+The/DT photo/NN was/VBD a/DT hoax/NN ./.
+They/PRP have/VBP lost/VBN a/DT lot/NN ./.
+I/PRP 'm/VBP no/RB longer/RB worried/VBN ./.
+Tom/NNP asked/VBD for/IN a/DT raise/NN ./.
+What/WP are/VBP you/PRP here/RB for/IN ?/.
+Can/MD you/PRP keep/VB Tom/NNP there/RB ?/.
+He/PRP came/VBD after/IN you/PRP left/VBD ./.
+Nothing/NN 's/POS been/VBN changed/VBN ./.
+He/PRP no/RB longer/RB works/VBZ here/RB ./.
+Tom/NNP might/MD become/VB famous/JJ ./.
+Water/NN is/VBZ very/RB important/JJ ./.
+Science/NN is/VBZ very/RB exciting/JJ ./.
+A/DT cat/NN can/MD see/VB in/IN the/DT dark/NN ./.
+I/PRP need/VBP to/TO get/VB out/IN of/IN town/NN ./.
+No/DT one/NN is/VBZ listening/VBG to/TO me/PRP ./.
+It/PRP 's/VBZ easy/JJ to/TO make/VB mistakes/NNS ./.
+I/PRP do/VBP n't/RB know/VB why/WRB I/PRP did/VBD that/DT ./.
+Did/VBD you/PRP see/VBP that/IN small/JJ mouse/NN ?/.
+I/PRP just/RB do/VBP n't/RB know/VB what/WP to/TO do/VB ./.
+I/PRP want/VBP to/TO travel/VB by/IN airplane/NN ./.
+He/PRP sat/VBD down/RB and/CC read/VB the/DT paper/NN ./.
+How/WRB much/JJ is/VBZ that/IN mountain/NN bike/NN ?/.
+She/PRP advised/VBD him/PRP not/RB to/TO do/VB that/DT ./.
+Tom/NNP is/VBZ a/DT retired/JJ schoolteacher/NN ./.
+Tom/NNP has/VBZ been/VBN lucky/JJ all/PDT his/PRP$ life/NN ./.
+Are/VBP you/PRP going/VBG to/TO give/VB me/PRP the/DT key/NN ?/.
+It/PRP was/VBD raining/VBG when/WRB they/PRP arrived/VBD ./.
+You/PRP forgot/VBD to/TO turn/VB off/RP the/DT light/NN ./.
+You/PRP looked/VBD like/IN you/PRP were/VBD baffled/VBN ./.
+I/PRP broke/VBD my/PRP$ nose/NN when/WRB I/PRP was/VBD little/JJ ./.
+He/PRP did/VBD not/RB accept/VB their/PRP$ invitation/NN ./.
+She/PRP enjoyed/VBD herself/PRP at/IN the/DT concert/NN ./.
+The/DT suspect/NN is/VBZ armed/VBN and/CC dangerous/JJ ./.
+I/PRP 'm/VBP not/RB the/DT only/JJ one/NN who/WP feels/VBZ that/DT way/NN ./.
+Tom/NNP could/MD n't/RB care/VB less/RBR what/WDT Mary/NNP thinks/VBZ ./.
+The/DT man/NN claimed/VBD he/PRP did/VBD n't/RB take/VB the/DT money/NN ./.
+We/PRP sang/VBD ,/, danced/VBD and/CC chatted/VBD after/IN dinner/NN ./.
+I/PRP found/VBD your/PRP$ wallet/NN on/IN the/DT backseat/NN of/IN my/PRP$ car/NN ./.
+It/PRP 's/VBZ quite/RB clear/JJ to/TO me/PRP that/IN this/DT is/VBZ the/DT truth/NN ./.
+When/WRB was/VBD the/DT last/JJ time/NN you/PRP climbed/VBD a/DT mountain/NN ?/.
+You/PRP should/MD practice/VB playing/VBG the/DT piano/NN regularly/RB ./.
+The/DT boy/NN said/VBD that/IN the/DT taxi/NN vanished/VBD into/IN the/DT fog/NN ./.
+It/PRP seemed/VBD that/IN she/PRP had/VBD already/RB received/VBN the/DT money/NN ./.
+Something/NN tells/VBZ me/PRP they/PRP are/VBP n't/RB going/VBG to/TO last/JJ long/JJ ./.
+The/DT Romanians/NNPS from/IN Transylvania/NNP speak/VBP very/RB slowly/RB ./.
+I/PRP 'm/VBP the/DT only/JJ one/NN who/WP was/VBD able/JJ to/TO do/VB that/DT without/IN help/NN ./.
+He/PRP gave/VBD up/RP traveling/VBG abroad/RB because/IN of/IN his/PRP$ sudden/JJ illness/NN ./.
+My/PRP$ wife/NN spends/VBZ money/NN as/IN if/IN I/PRP were/VBD the/DT richest/JJS man/NN in/IN town/NN ./.
+Tom/NNP wanted/VBD to/TO study/VB Japanese/JJ with/IN a/DT native/JJ Japanese/JJ speaker/NN ./.
+Tom/NNP pretended/VBD he/PRP did/VBD n't/RB understand/VB what/WP Mary/NNP wanted/VBD him/PRP to/TO do/VB ./.
+For/IN some/DT people/NNS ,/, meditation/NN is/VBZ more/RBR effective/JJ than/IN taking/VBG tranquilisers/NNS ./.

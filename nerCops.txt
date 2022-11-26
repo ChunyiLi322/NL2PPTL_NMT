@@ -1,0 +1,64 @@
+I/O 'm/O next/O ./O
+Tom/PERSON is/O cruel/O ./O
+We/O were/O right/O ./O
+I/O said/O get/O out/O ./O
+Smoking/CAUSE_OF_DEATH stinks/O ./O
+Put/O your/O hat/O on/O ./O
+What/O a/O disaster/CAUSE_OF_DEATH !/O
+I/O do/O n't/O mean/O you/O ./O
+This/O book/O is/O old/O ./O
+Living/O is/O n't/O easy/O ./O
+I/O like/O being/O alone/O ./O
+I/O already/O know/O this/O ./O
+Maybe/O we/O should/O wait/O ./O
+The/O photo/O was/O a/O hoax/O ./O
+They/O have/O lost/O a/O lot/O ./O
+I/O 'm/O no/O longer/O worried/O ./O
+Tom/PERSON asked/O for/O a/O raise/O ./O
+What/O are/O you/O here/O for/O ?/O
+Can/O you/O keep/O Tom/PERSON there/O ?/O
+He/O came/O after/O you/O left/O ./O
+Nothing/O 's/O been/O changed/O ./O
+He/O no/O longer/O works/O here/O ./O
+Tom/PERSON might/O become/O famous/O ./O
+Water/O is/O very/O important/O ./O
+Science/O is/O very/O exciting/O ./O
+A/O cat/O can/O see/O in/O the/O dark/O ./O
+I/O need/O to/O get/O out/O of/O town/O ./O
+No/O one/O is/O listening/O to/O me/O ./O
+It/O 's/O easy/O to/O make/O mistakes/O ./O
+I/O do/O n't/O know/O why/O I/O did/O that/O ./O
+Did/O you/O see/O that/O small/O mouse/O ?/O
+I/O just/O do/O n't/O know/O what/O to/O do/O ./O
+I/O want/O to/O travel/O by/O airplane/O ./O
+He/O sat/O down/O and/O read/O the/O paper/O ./O
+How/O much/O is/O that/O mountain/O bike/O ?/O
+She/O advised/O him/O not/O to/O do/O that/O ./O
+Tom/PERSON is/O a/O retired/O schoolteacher/TITLE ./O
+Tom/PERSON has/O been/O lucky/O all/O his/O life/O ./O
+Are/O you/O going/O to/O give/O me/O the/O key/O ?/O
+It/O was/O raining/O when/O they/O arrived/O ./O
+You/O forgot/O to/O turn/O off/O the/O light/O ./O
+You/O looked/O like/O you/O were/O baffled/O ./O
+I/O broke/O my/O nose/O when/O I/O was/O little/O ./O
+He/O did/O not/O accept/O their/O invitation/O ./O
+She/O enjoyed/O herself/O at/O the/O concert/O ./O
+The/O suspect/O is/O armed/O and/O dangerous/O ./O
+I/O 'm/O not/O the/O only/O one/O who/O feels/O that/O way/O ./O
+Tom/PERSON could/O n't/O care/O less/O what/O Mary/PERSON thinks/O ./O
+The/O man/O claimed/O he/O did/O n't/O take/O the/O money/O ./O
+We/O sang/O ,/O danced/O and/O chatted/O after/O dinner/O ./O
+I/O found/O your/O wallet/O on/O the/O backseat/O of/O my/O car/O ./O
+It/O 's/O quite/O clear/O to/O me/O that/O this/O is/O the/O truth/O ./O
+When/O was/O the/O last/O time/O you/O climbed/O a/O mountain/O ?/O
+You/O should/O practice/O playing/O the/O piano/O regularly/O ./O
+The/O boy/O said/O that/O the/O taxi/O vanished/O into/O the/O fog/O ./O
+It/O seemed/O that/O she/O had/O already/O received/O the/O money/O ./O
+Something/O tells/O me/O they/O are/O n't/O going/O to/O last/O long/O ./O
+The/O Romanians/MISC from/O Transylvania/LOCATION speak/O very/O slowly/O ./O
+I/O 'm/O the/O only/O one/O who/O was/O able/O to/O do/O that/O without/O help/O ./O
+He/O gave/O up/O traveling/O abroad/O because/O of/O his/O sudden/O illness/CAUSE_OF_DEATH ./O
+My/O wife/O spends/O money/O as/O if/O I/O were/O the/O richest/O man/O in/O town/O ./O
+Tom/PERSON wanted/O to/O study/O Japanese/NATIONALITY with/O a/O native/O Japanese/NATIONALITY speaker/O ./O
+Tom/PERSON pretended/O he/O did/O n't/O understand/O what/O Mary/PERSON wanted/O him/O to/O do/O ./O
+For/O some/O people/O ,/O meditation/O is/O more/O effective/O than/O taking/O tranquilisers/O ./O
