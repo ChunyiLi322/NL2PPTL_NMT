@@ -1,0 +1,64 @@
+Is/VBZ it/PRP fatal/JJ ?/.
+She/PRP went/VBD home/NN ./.
+I/PRP need/VBP a/DT tissue/NN ./.
+I/PRP forgot/VBD the/DT map/NN ./.
+Tom/NNP hurt/VBD himself/PRP ./.
+What/WP did/VBD you/PRP eat/VB ?/.
+Cows/NNS give/VBP us/PRP milk/NN ./.
+That/DT 's/VBZ why/WRB I/PRP quit/VBP ./.
+You/PRP ca/MD n't/RB give/VB up/RP ./.
+I/PRP left/VBD it/PRP unlocked/VBD ./.
+Do/VB you/PRP wear/VB glasses/NNS ?/.
+He/PRP became/VBD irritated/JJ ./.
+I/PRP know/VBP what/WP I/PRP 'll/MD do/VB ./.
+Is/VBZ that/IN all/DT of/IN them/PRP ?/.
+You/PRP 're/VBP with/IN friends/NNS ./.
+Do/VBP n't/RB make/VB me/PRP say/VB it/PRP ./.
+I/PRP canceled/VBD the/DT order/NN ./.
+I/PRP thank/VBP you/PRP for/IN that/DT ./.
+Have/VBP something/NN to/TO eat/VB ./.
+I/PRP knew/VBD it/PRP was/VBD a/DT trick/NN ./.
+I/PRP refuse/VBP to/TO allow/VB this/DT ./.
+I/PRP majored/VBD in/IN psychology/NN ./.
+They/PRP finished/VBD their/PRP$ meal/NN ./.
+We/PRP all/DT missed/VBD the/DT target/NN ./.
+You/PRP 're/VBP alone/RB ,/, are/VBP n't/RB you/PRP ?/.
+Bring/VB me/PRP the/DT menu/NN ,/, please/VB ./.
+I/PRP should/MD n't/RB have/VB slept/VBN in/IN ./.
+I/PRP 'm/VBP not/RB going/VBG to/TO kiss/NN you/PRP ./.
+There/EX are/VBP no/DT clean/JJ plates/NNS ./.
+Tom/NNP was/VBD n't/RB very/RB impressed/JJ ./.
+What/WDT time/NN is/VBZ good/JJ for/IN you/PRP ?/.
+Can/MD you/PRP leave/VB the/DT light/NN on/IN ?/.
+You/PRP should/MD take/VB her/PRP$ advice/NN ./.
+Do/VB you/PRP want/VBP to/TO eat/VB anything/NN ?/.
+She/PRP can/MD run/VB a/DT full/JJ marathon/NN ./.
+Do/VB your/PRP$ homework/NN by/IN yourself/PRP ./.
+Have/VBP I/PRP kept/VBD you/PRP waiting/VBG long/RB ?/.
+He/PRP did/VBD what/WP he/PRP had/VBD been/VBN told/VBN ./.
+Where/WRB does/VBZ all/PDT this/DT come/VBN from/IN ?/.
+I/PRP came/VBD here/RB to/TO give/VB you/PRP a/DT gift/NN ./.
+I/PRP knew/VBD it/PRP would/MD be/VB an/DT adventure/NN ./.
+She/PRP felt/VBD someone/NN touch/NN her/PRP$ back/NN ./.
+She/PRP is/VBZ looking/VBG for/IN her/PRP$ car/NN keys/NNS ./.
+Why/WRB do/VBP n't/RB we/PRP go/VBP and/CC see/VBP a/DT movie/NN ?/.
+I/PRP just/RB did/VBD n't/RB want/VB you/PRP to/TO get/VB hurt/VBN ./.
+Tom/NNP is/VBZ the/DT father/NN of/IN three/CD children/NNS ./.
+We/PRP look/VBP forward/RB to/TO getting/VBG back/RB home/NN ./.
+You/PRP do/VBP n't/RB know/VB what/WP that/DT means/VBZ to/TO me/PRP ./.
+It/PRP seemed/VBD like/IN you/PRP were/VBD n't/RB interested/JJ ./.
+She/PRP is/VBZ in/IN a/DT hurry/NN because/IN she/PRP is/VBZ late/RB ./.
+It/PRP looks/VBZ like/IN you/PRP 've/VBP got/VBD a/DT green/JJ thumb/NN ./.
+My/PRP$ success/NN is/VBZ largely/RB due/JJ to/TO your/PRP$ help/NN ./.
+He/PRP asked/VBD me/PRP who/WP had/VBD painted/VBN the/DT picture/NN ./.
+The/DT king/NN would/MD not/RB even/RB read/VB the/DT message/NN ./.
+Are/VBP n't/RB you/PRP ashamed/JJ of/IN the/DT way/NN you/PRP behaved/VBD ?/.
+The/DT fence/NN will/MD be/VB painted/VBN by/IN Tom/NNP tomorrow/NN ./.
+I/PRP was/VBD the/DT only/JJ one/CD not/RB invited/VBN to/TO the/DT party/NN ./.
+I/PRP ca/MD n't/RB prove/VB it/PRP ,/, but/CC I/PRP 'm/VBP sure/JJ he/PRP was/VBD murdered/VBN ./.
+You/PRP must/MD exercise/VB more/JJR care/NN in/IN writing/VBG English/NNP ./.
+I/PRP did/VBD n't/RB know/VB Tom/NNP was/VBD going/VBG to/TO Boston/NNP with/IN Mary/NNP ./.
+I/PRP have/VBP no/DT will/MD power/NN when/WRB it/PRP comes/VBZ to/TO exercising/VBG ./.
+Do/VB you/PRP know/VB anyone/NN who/WP was/VBD on/IN that/DT ship/NN that/WDT sunk/VBN ?/.
+How/WRB long/RB does/VBZ it/PRP take/VB from/IN here/RB to/TO your/PRP$ house/NN on/IN foot/NN ?/.
+Every/DT student/NN of/IN biology/NN ,/, anatomy/NN ,/, anthropology/NN ,/, ethnology/NN or/CC psychology/NN is/VBZ familiar/JJ with/IN these/DT facts/NNS ./.
